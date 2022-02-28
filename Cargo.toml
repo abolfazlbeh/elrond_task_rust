@@ -1,0 +1,17 @@
+[package]
+name = "play01"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rust-crypto = "0.2"
+rustc-serialize = "0.3.24"
+ethers = "0.6.2"
+
+hex = "0.4.3"
+web3 = "0.18.0"
+tokio = { version = "1", features=["full"]}
+dotenv = "0.15.0"
+
