@@ -1,1 +1,1 @@
-# Elrond Rust MerkleTree and Simple Contract Connectivity Functions
+### Elrond Rust MerkleTree and Simple Contract Connectivity Functions
